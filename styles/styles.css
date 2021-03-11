@@ -16,11 +16,11 @@ h3 {
 }
 
 h1 {
-  font-size: 96px !important;
+  font-size: 80px !important;
 }
 
 h2 {
-  font-size: 48px !important;
+  font-size: 40px !important;
 }
 
 h3 {
@@ -40,6 +40,7 @@ img {
   max-width: 100%;
   height: auto;
 }
+
 .primary-link {
   border-radius: 4px;
   padding: 20px 15px;
